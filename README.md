@@ -1,0 +1,1 @@
+This app will help you make the right number of steps during the day!
